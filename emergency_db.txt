@@ -1,0 +1,49 @@
+# Format: Emergency|Response|Keywords (comma-separated)
+not breathing|Start CPR immediately. CPR involves pushing against the chest and blowing air into the mouth in a steady rhythm.|breath,breathing,airway,suffocate
+severe bleeding|Apply pressure to the wound to stop the bleeding. Keep the injured area elevated.|bleed,bleeding,blood,hemorrhage
+choking|Perform the Heimlich maneuver. Stand behind the person and press their abdomen in an upward motion to expel the object.|choke,choking,throat,blockage
+heart attack|Chew and swallow an aspirin immediately unless allergic. Keep calm and call for help.|heart,attack,chest pain,cardiac
+stroke|Keep the person lying down with their head slightly elevated. Do not give anything to eat or drink.|stroke,paralysis,weakness,speech
+burns|Cool the burn with running water for at least 10 minutes. Cover with a clean cloth or dressing.|burn,fire,scald,heat
+broken bone|Immobilize the area with a splint. Do not attempt to realign the bone. Seek immediate medical help.|fracture,break,crack,bone
+allergic reaction|Use an epinephrine auto-injector (EpiPen) if available. Keep the person calm and seek medical help.|allergy,anaphylaxis,hives,swelling
+poisoning|Call poison control immediately. Do not induce vomiting unless instructed by a professional.|poison,ingest,swallow,toxin
+seizure|Do not restrain the person. Remove any nearby dangerous objects and allow the seizure to run its course.|seizure,convulsion,fit,epilepsy
+head injury|Keep the person still and avoid moving their neck. Apply a cold compress to reduce swelling.|head,concussion,trauma,impact
+drowning|Remove the person from the water and start CPR if they are not breathing. Keep them warm.|drown,water,sink,rescue
+electric shock|Turn off the source of electricity if possible. Do not touch the person if they are still in contact with the source.|shock,electric,electrocute,power
+animal bite|Wash the wound with soap and water. Apply a clean dressing and seek medical attention.|bite,animal,attack,rabies
+fainting|Lay the person flat on their back and elevate their legs. Loosen tight clothing and ensure they are breathing normally.|faint,unconscious,collapse,pass out
+heat stroke|Move the person to a cooler environment and use wet cloths or ice packs to lower their body temperature.|heatstroke,sunstroke,overheat,exhaustion
+hypothermia|Move the person to a warm area and remove any wet clothing. Warm the person with blankets.|cold,hypothermia,chill,freezing
+eye injury|Do not rub the eye. Rinse with clean water and cover with a sterile dressing.|eye,injury,vision,foreign object
+tooth knocked out|Rinse the tooth and try to place it back in the socket. If not possible, store it in milk and see a dentist immediately.|tooth,dental,knocked out,oral
+asthma attack|Use the inhaler. Have the person sit upright and breathe slowly and deeply.|asthma,breath,wheeze,inhaler
+chemical burn|Rinse the affected area with water for at least 20 minutes. Remove any contaminated clothing.|chemical,burn,acid,alkaline
+fracture|Immobilize the injured area. Apply ice to reduce swelling and seek medical attention.|fracture,break,crack,bone
+dislocation|Do not attempt to realign the joint. Immobilize the joint and seek medical attention.|dislocate,joint,separation,shoulder
+concussion|Monitor for symptoms like headache or confusion. Seek medical attention if symptoms worsen.|concussion,headache,dizziness,head
+panic attack|Help the person slow their breathing by breathing in for 4 counts, holding for 4, and out for 4 counts. Stay calm.|panic,attack,anxiety,fear
+vomiting blood|Keep the person sitting upright and try to keep them calm. Seek emergency medical attention immediately.|vomit,blood,bleed,internal
+gunshot wound|Apply pressure to the wound and try to stop the bleeding. Seek emergency medical attention immediately.|gunshot,bullet,wound,shoot
+chemical inhalation|Move the person to fresh air immediately. Avoid further exposure and seek medical help.|chemical,inhalation,fumes,toxic
+frostbite|Gradually warm the affected area by soaking it in warm (not hot) water. Avoid rubbing the area.|frostbite,freeze,ice,cold
+diabetic emergency|If the person is conscious, give them something sugary to eat or drink. If unconscious, seek emergency medical attention immediately.|diabetes,sugar,insulin,unconscious
+drug overdose|Call emergency services immediately. Try to keep the person awake and breathing.|overdose,drug,pill,substance
+severe dehydration|Give small sips of water or oral rehydration solution. Seek medical help if symptoms persist.|dehydration,thirst,fluid,dry
+food poisoning|Keep the person hydrated and seek medical attention if symptoms are severe or persistent.|food,poison,stomach,nausea
+high fever|Keep the person cool and hydrated. Seek medical attention if the fever does not reduce or is accompanied by other symptoms.|fever,temperature,heat,sick
+appendicitis|Keep the person calm and avoid eating or drinking. Seek emergency medical attention immediately.|appendix,stomach,pain,inflamed
+near drowning|Check for breathing and pulse. Begin CPR if necessary and seek emergency medical attention.|drowning,water,breathe,pulse
+snake bite|Keep the person still and calm. Immobilize the affected limb and seek emergency medical attention immediately.|snake,bite,venom,poison
+heat exhaustion|Move to a cool area, hydrate with water or sports drinks, and cool the body with wet cloths.|heat,exhaustion,hot,overheat
+eye chemical exposure|Rinse the eyes with clean, lukewarm water for at least 15 minutes. Seek medical attention.|eye,chemical,exposure,irritate
+nosebleed|Sit the person up and tilt their head slightly forward. Pinch the nostrils together and apply pressure for 10 minutes.|nose,bleed,blood,nosebleed
+object in ear|Do not attempt to remove the object with tweezers or cotton swabs. Seek medical help to avoid pushing the object further in.|ear,object,blockage,stuck
+overdose|Keep the person awake and breathing if possible. Call emergency services immediately.|overdose,drug,pill,substance
+shock|Lay the person down and elevate their legs. Keep them warm and calm until help arrives.|shock,circulation,blood pressure,trauma
+spinal injury|Do not move the person. Keep them still and stabilize their head and neck until emergency services arrive.|spine,injury,paralysis,back
+chemical spill on skin|Rinse the affected area with large amounts of water for at least 20 minutes. Remove any contaminated clothing.|chemical,spill,burn,skin
+kidney stone|Encourage the person to drink water and seek medical attention if the pain is severe.|kidney,stone,urine,pain
+ruptured eardrum|Keep the ear dry and avoid inserting anything into the ear. Seek medical attention for further evaluation.|ear,rupture,eardrum,injury
+dehydration|Encourage the person to drink small amounts of water or an electrolyte solution. Rest in a cool, shaded area.|dehydration,fluid,dry,thirst
